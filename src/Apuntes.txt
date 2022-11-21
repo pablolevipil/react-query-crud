@@ -1,0 +1,29 @@
+Biblioteca React Query: 
+.- Se instala TanStack Query desde la pagina para poder crear las querys. 
+.- Se instala TanStack Query Devtools para el debug de la app. 
+.- Al instalar se crea una ventana para ver los estados de react y tambien ver si los datos se estan enviando o recibiendo correctamente. 
+Tambien se puede revalidar y solicitar nuevamente los datos. 
+
+
+JSON-SERVER: 
+.- Se instala con npm i json-server y sirve para simular un backend con unos archivos json creados por nosotros. 
+.-Se debe declaran en el package.json en "scripts" para poder instanciarlo con la terminal. 
+ej: "back": "json-server --watch db/products.json --port 3100".
+
+2parte: min 13 (Creación de api).
+
+Axios: 
+.- Se instala la biblioteca de Axios para poder consultar las Apis que generamos, luego se importan y se ocupan. 
+
+useMutation: 
+.- Puedes modificar sin datos desde el backend (actualizar , eliminar, insertar)
+
+3ra parte min 44. 
+
+
+
+
+
+
+
+

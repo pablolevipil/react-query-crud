@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "laptop",
+      "description": "laptop gamer",
+      "price": 1000,
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "name": "mouse",
+      "description": "mouse gamer",
+      "price": 150,
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "name": "keyboard",
+      "description": "keyboard gamer",
+      "price": 300,
+      "inStock": false
+    },
+    {
+      "name": "servidor",
+      "description": "servidor web",
+      "price": "1000",
+      "inStock": true,
+      "id": 4
+    },
+    {
+      "name": "pantalla",
+      "description": "pantalla 24p",
+      "price": "1000",
+      "inStock": true,
+      "id": 5
+    },
+    {
+      "name": "Laptop Gamer",
+      "description": "Asus F-150",
+      "price": "3000",
+      "inStock": true,
+      "id": 6
+    }
+  ]
+}
